@@ -1,0 +1,14 @@
+[
+{
+    "model": "versus.comment",
+    "pk": 3,
+    "fields": {
+        "user": 2,
+        "versus_vote": 1,
+        "versus_content": "¾î·ÆÁö¸¸... ³­ ¶óµû¶ÑÀÌ",
+        "article": 2,
+        "created_at": "2022-05-26T02:22:24.322Z",
+        "updated_at": "2022-05-26T02:22:24.322Z"
+    }
+}
+]

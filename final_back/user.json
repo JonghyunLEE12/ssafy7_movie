@@ -1,0 +1,65 @@
+[
+{
+    "model": "accounts.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$qyu6PdZA6ndLcgTD9u9TDF$YxWeoEYxj8mbFyWGMc0ebAxYLiaV6WSVfaocG9y+rLg=",
+        "last_login": "2022-05-26T02:01:31.244Z",
+        "is_superuser": false,
+        "username": "test",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-05-26T00:33:00.002Z",
+        "nickname": "",
+        "user_photo": "",
+        "about": "",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$g9enFsJjZwMS8seRQq2Ni5$2uYqHHUl9n3FX1QQ8lib7WVWTwM4PV+/KQunqRDigkw=",
+        "last_login": "2022-05-26T02:18:57.108Z",
+        "is_superuser": false,
+        "username": "영화보고싶다",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-05-26T01:10:31.734Z",
+        "nickname": "",
+        "user_photo": "images/user_photos/wallpaper_20220221152308_1920_1080___.jpg",
+        "about": "졸려",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$nTF2XM9jtN1knJtIJTXyCA$na8IpRM4Jdl1ntPDveF0dU9w5C6crnpxA2J0OYMku7Q=",
+        "last_login": "2022-05-26T02:35:48.674Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "admin@dsfsd.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-05-26T02:35:21.656Z",
+        "nickname": "",
+        "user_photo": "",
+        "about": "",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]
